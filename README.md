@@ -1,2 +1,1 @@
-# expGlobos-2
-segunda parte de explotar globos
+# ExplotarGlobos2-plantilla
